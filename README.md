@@ -4,6 +4,38 @@ DataVault is a high-performance, secure, and visually stunning web platform desi
 
 The platform is powered by a robust **Flask** backend with **JWT-protected REST APIs**, **SQLAlchemy ORM**, and a secure **MySQL** database.
 
+---# 📸 Screenshots
+
+## 🔑 Login Page
+
+<p align="center">
+  <img src="./images/11.png" width="100%" alt="Login Page"/>
+</p>
+
+---
+
+## 📝 Create Account
+
+<p align="center">
+  <img src="./images/22.png" width="100%" alt="Create Account"/>
+</p>
+
+---
+
+## 📊 Dashboard
+
+<p align="center">
+  <img src="./images/33.png" width="100%" alt="Dashboard"/>
+</p>
+
+---
+
+## 📱 Mobile Responsive Sidebar
+
+<p align="center">
+  <img src="./images/44.png" width="40%" alt="Mobile View"/>
+</p>
+
 ---
 
 ## 🚀 Key Features
