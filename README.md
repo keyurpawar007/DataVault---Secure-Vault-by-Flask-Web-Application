@@ -8,22 +8,21 @@ The platform is powered by a robust **Flask** backend with **JWT-protected REST 
 
 ## 📸 Screenshots
 
-### Login Page
 ![Login Page](11.png)
 
 ---
 
-### Create Account
+
 ![Create Account](22.png)
 
 ---
 
-### Dashboard
+
 ![Dashboard](33.png)
 
 ---
 
-### Mobile View
+
 ![Mobile View](44.png)
 ---
 
