@@ -6,36 +6,25 @@ The platform is powered by a robust **Flask** backend with **JWT-protected REST 
 
 ---# 📸 Screenshots
 
-## 🔑 Login Page
+## 📸 Screenshots
 
-<p align="center">
-  <img src="./images/11.png" width="100%" alt="Login Page"/>
-</p>
-
----
-
-## 📝 Create Account
-
-<p align="center">
-  <img src="./images/22.png" width="100%" alt="Create Account"/>
-</p>
+### Login Page
+![Login Page](11.png)
 
 ---
 
-## 📊 Dashboard
-
-<p align="center">
-  <img src="./images/33.png" width="100%" alt="Dashboard"/>
-</p>
+### Create Account
+![Create Account](22.png)
 
 ---
 
-## 📱 Mobile Responsive Sidebar
+### Dashboard
+![Dashboard](33.png)
 
-<p align="center">
-  <img src="./images/44.png" width="40%" alt="Mobile View"/>
-</p>
+---
 
+### Mobile View
+![Mobile View](44.png)
 ---
 
 ## 🚀 Key Features
